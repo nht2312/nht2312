@@ -20,10 +20,10 @@
 | **Other Tools**           | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="24" height="24" alt="MacOS" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="24" height="24" alt="Linux" /> |
 
 ---
-
+<p align="center">
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=nht2312)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark)
-
+</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nht2312&theme=dark" alt="nht2312" /></p>
 
 ---
