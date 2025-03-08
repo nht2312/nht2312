@@ -23,10 +23,6 @@
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=nht2312)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nht2312&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nht2312&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nht2312&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nht2312&theme=nord_dark&utcOffset=7)
 
 ---
 
