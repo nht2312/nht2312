@@ -24,6 +24,12 @@
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=nht2312)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nht2312&show_icons=true&locale=en&layout=compact" alt="nht2312" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nht2312&show_icons=true&locale=en" alt="nht2312" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nht2312&" alt="nht2312" /></p>
+
 ---
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&align=center)](https://buymeacoffee.com/nht2312)
