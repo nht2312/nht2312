@@ -21,8 +21,6 @@
 
 ---
 
-<p align="center"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=nht2312" /></p>
-
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nht2312&theme=dark" alt="nht2312" /></p>
