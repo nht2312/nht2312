@@ -21,6 +21,8 @@
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nht2312&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="nht2312's Github Stats">
+
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nht2312&theme=dark" alt="nht2312" /></p>
