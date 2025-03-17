@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm NHT 👋 I'm a 🚀 Vietnam developer 🚀 ❤️ I'm Alone :)) ❤️">
+</p>
+
 ![til](https://raw.githubusercontent.com/huutai2312/huutai2312/master/intro-git.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=1000&size=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Huu+Tai+(NHT);N__________H__________T)]([https://git.io/typing-svg])
