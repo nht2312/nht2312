@@ -1,6 +1,8 @@
 ![til](https://raw.githubusercontent.com/nht2312/nht2312/master/assets/Intro-TechNT.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=78AEAE&center=true&vCenter=true&width=435&lines=Hi+everyone+%3A%3E;I'm+Huu+Tai;Nickname+NHT;I+am+a+website+developer" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=78AEAE&center=true&vCenter=true&width=435&lines=Hi+everyone+%3A%3E;I'm+Huu+Tai;Nickname+NHT;I+am+a+website+developer" alt="Typing SVG" /></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=1000&size=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Huu+Tai+(NHT);N__________H__________T)]([https://git.io/typing-svg])
 ---
