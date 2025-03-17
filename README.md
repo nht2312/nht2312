@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nht2312/nht2312/raw/main/assets/github.gif" alt="Hi, I'm NHT 👋 I'm a 🚀 Vietnam developer 🚀 ❤️ I'm Alone :)) ❤️">
+  <img src="https://github.com/nht2312/nht2312/master/assets/Intro-TechNT.gif" alt="Hi, I'm NHT 👋 I'm a 🚀 Vietnam developer 🚀 ❤️ I'm Alone :)) ❤️">
 </p>
 
 ![til](https://raw.githubusercontent.com/huutai2312/huutai2312/master/assets/intro-git.gif)
