@@ -30,4 +30,4 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&align=center)](https://buymeacoffee.com/nht2312)
 
-
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=2508roblox&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
