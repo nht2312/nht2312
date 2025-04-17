@@ -22,6 +22,8 @@
 
 ---
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nht2312\&layout=compact)
+
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
 
 | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nht2312&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nht2312&theme=city-lights) |
