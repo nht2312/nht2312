@@ -26,6 +26,9 @@
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
 
+| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nht2312&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nht2312&theme=city-lights) |
+| :---: | :---: |
+
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nht2312&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
