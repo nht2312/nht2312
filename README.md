@@ -9,6 +9,14 @@
 
 ---
 
+## My Current Stack
+
+| PHP | Laravel | Livewire | Filamentphp | Tailwindcss | Alpinejs | MySQL |
+|-|-|-|-|-|-|-|
+| <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> | <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> | <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /> | <img width="80px" src="https://github.com/user-attachments/assets/91303c0e-a800-439e-a80d-7ebd84242a36" /> | <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> | <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" /> | <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> |
+
+---
+
 ## Skills
 
 | **Category**             | **Description**                                                                                                         |
