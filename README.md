@@ -27,6 +27,7 @@
 | - [[calculator-folder]](https://github.com/nht2312/calculator-folder) |
 | - [[tool-auto-click-screen]](https://github.com/nht2312/tool-auto-click-screen) |
 | - [[reserve-block-space-vps]](https://github.com/nht2312/reserve-block-space-vps)
+| - [[setup-package-vps]](https://github.com/nht2312/setup-package-vps)
 
 | **Code IDE** |
 |--------------|
