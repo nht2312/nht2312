@@ -34,6 +34,10 @@
 | - [[quickly-install-extension-ide-code]](https://github.com/nht2312/quickly-install-extension-ide-code) |
 | - [[reset-id-cursor]](https://github.com/nht2312/reset-id-cursor) |
 
+| **Template** |
+|--------------|
+| - [[laravel-12-project]](https://github.com/nht2312/laravel-12-project) |
+
 ---
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
