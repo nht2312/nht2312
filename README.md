@@ -37,6 +37,7 @@
 | **Template** |
 |--------------|
 | - [[laravel-12-project]](https://github.com/nht2312/laravel-12-project) |
+| - [[html-hello-everyone]](https://github.com/nht2312/html-hello-everyone) |
 
 ---
 
