@@ -19,7 +19,11 @@
 
 ## Repository
 
-| **Script auto** |
+| **🧰 My VSCode extensions** |
+|--------------|
+| - [[Mikka Pack]](https://github.com/nht2312/mikka-pack) |
+
+| **⚙️ Script auto** |
 |--------------|
 | - [[script-update-source-project]](https://github.com/nht2312/script-update-source-project) |
 | - [[script-setup-dev-wsl]](https://github.com/nht2312/script-setup-dev-wsl) |
@@ -33,12 +37,12 @@
 | - [[auto-index-url-google-basic]](https://github.com/nht2312/auto-index-url-google-basic) |
 | - [[change-network-win-mac]](https://github.com/nht2312/change-network-win-mac) |
 
-| **Code IDE** |
+| **💻 Code IDE** |
 |--------------|
 | - [[quickly-install-extension-ide-code]](https://github.com/nht2312/quickly-install-extension-ide-code) |
 | - [[reset-id-cursor]](https://github.com/nht2312/reset-id-cursor) |
 
-| **Template** |
+| **🗂️ Template** |
 |--------------|
 | - [[laravel-12-project]](https://github.com/nht2312/laravel-12-project) |
 | - [[html-hello-everyone]](https://github.com/nht2312/html-hello-everyone) |
