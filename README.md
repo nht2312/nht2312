@@ -36,6 +36,7 @@
 | - [[telegram-bot-index-url-google]](https://github.com/nht2312/telegram-bot-index-url-google) |
 | - [[auto-index-url-google-basic]](https://github.com/nht2312/auto-index-url-google-basic) |
 | - [[change-network-win-mac]](https://github.com/nht2312/change-network-win-mac) |
+| - [[auto-video-mixer]](https://github.com/nht2312/auto-video-mixer) |
 
 | **💻 Code IDE** |
 |--------------|
