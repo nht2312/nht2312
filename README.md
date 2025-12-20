@@ -49,6 +49,7 @@
 | - [[html-hello-everyone]](https://github.com/nht2312/html-hello-everyone) |
 
 ---
+- Gist: [nht2312](https://gist.github.com/nht2312)
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nht2312&theme=nord_dark" /></p>
 
