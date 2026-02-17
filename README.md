@@ -37,6 +37,7 @@
 | - [[auto-index-url-google-basic]](https://github.com/nht2312/auto-index-url-google-basic) |
 | - [[change-network-win-mac]](https://github.com/nht2312/change-network-win-mac) |
 | - [[auto-video-mixer]](https://github.com/nht2312/auto-video-mixer) |
+| - [[Gist - config-ssh-connect.sh]](https://gist.github.com/nht2312/576b46750ee6c859e9a4b6126904ad14) |
 
 | **💻 Code IDE** |
 |--------------|
