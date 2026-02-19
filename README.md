@@ -49,6 +49,10 @@
 | - [[laravel-12-project]](https://github.com/nht2312/laravel-12-project) |
 | - [[html-hello-everyone]](https://github.com/nht2312/html-hello-everyone) |
 
+| **🗂️ Project** |
+|--------------|
+| - [[ssh-ter]](https://github.com/nht2312/ssh-ter) |
+
 ---
 - Gist: [nht2312](https://gist.github.com/nht2312)
 
