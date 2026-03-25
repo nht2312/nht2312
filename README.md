@@ -46,7 +46,7 @@
 
 | **🗂️ Template** |
 |--------------|
-| - [[laravel-12-project]](https://github.com/nht2312/laravel-12-project) |
+| - [[LARAVEL-TEMPLATE-PROJECT]](https://github.com/nht2312/LARAVEL-TEMPLATE-PROJECT) |
 | - [[html-hello-everyone]](https://github.com/nht2312/html-hello-everyone) |
 
 | **🗂️ Project** |
